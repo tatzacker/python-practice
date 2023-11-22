@@ -112,3 +112,14 @@ CLIの先頭に{仮想環境名}が表示されていればOK
 deactivate
 ```
 CLIの先頭に{仮想環境名}が表示されなくなっていればOK
+
+## Pythonプロジェクトの実行
+* 単一ファイルの場合
+  ```
+  python {ファイル名.py}
+  ```
+  もしくはVSCode右上の▷ボタン押下
+* Flaskアプリの場合
+  ```
+  Under construction
+  ```
