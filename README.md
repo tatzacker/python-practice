@@ -123,3 +123,7 @@ CLIの先頭に{仮想環境名}が表示されなくなっていればOK
   ```
   Under construction
   ```
+
+## 変更内容のGitHubへの反映方法（やるなら）
+VSCodeの拡張機能「GitLens」を使う  
+*Under construction*
